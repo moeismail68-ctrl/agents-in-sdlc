@@ -9,7 +9,7 @@ lastUpdated: 2026-09-16
 | [← 上一模块：准备项目和模型][previous-lesson] |
 |:--|
 
-本模块使用[准备项目和模型][previous-lesson]中的目录和已测试模型。Microsoft Foundry Toolkit 及其 **AIAgentExpert** 自定义代理将在 VS Code 中引导本地构建和托管部署。
+本模块使用[准备项目和模型][previous-lesson]中的目录和已测试模型。Microsoft Foundry Toolkit 及其 **AIAgentExpert** 自定义智能体将在 VS Code 中引导本地构建和托管部署。
 
 ## 目标
 

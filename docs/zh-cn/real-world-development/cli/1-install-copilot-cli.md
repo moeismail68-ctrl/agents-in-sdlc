@@ -5,7 +5,7 @@ authors:
 lastUpdated: 2026-06-30
 ---
 
-[GitHub Copilot CLI][about-copilot-cli] 是一个功能强大的代理式编码助手，可在终端中运行，让开发者通过命令行探索代码库、生成代码、运行命令并与外部工具交互。它可以帮助分担任务、请求变更，并保持专注。第一步自然是安装这个工具，好在可以使用已经熟悉的工具来完成。
+[GitHub Copilot CLI][about-copilot-cli] 是一个功能强大的智能体编码助手，可在终端中运行，让开发者通过命令行探索代码库、生成代码、运行命令并与外部工具交互。它可以帮助分担任务、请求变更，并保持专注。第一步自然是安装这个工具，好在可以使用已经熟悉的工具来完成。
 
 在本练习中，将学习如何：
 
@@ -120,7 +120,7 @@ lastUpdated: 2026-06-30
 - [使用 Copilot CLI][using-copilot-cli]
 
 [previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-custom-instructions/
+[next-lesson]: ../2-add-star-rating/
 [install-copilot-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [install-npm]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-npm-all-platforms
 [install-winget]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-winget-windows
